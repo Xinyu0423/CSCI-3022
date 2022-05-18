@@ -1,12 +1,13 @@
 # CSCI-3022
 
 ## Semester Took this Course
-Fall 2019
+Spring 2019
 
 ## Grade
-A-
+B
+
 ## Note for This Class
-1. This class is a code-heavy course. If you are interested in AI, the content of this class will be very useful(I learned a lot from thise class).
+1. This class is a code-heavy course. And it is a prerequisite for CSCI-3202(that's why I took this class).
 
 ## Note
 1. This repo is for me to store my work for this class. So please **DO NOT** use it for plagiarism. Thus If you check out my work, please use it only as a way to get inspiration. Again, **DO NOT** use it for plagiarism.
